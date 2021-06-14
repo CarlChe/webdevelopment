@@ -1,0 +1,115 @@
+/*Common CSS-------------------------------------*/
+
+* {
+    box-sizing: border-box;
+    color: white;
+}
+
+body{
+    background: rgb(24, 27, 186, 255);
+    height: 100%;
+}
+
+h1{
+    font-family: 'Avenir Next', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    font-family: 'Avenir Next', 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 20px;;
+    color: black;
+}
+
+h3{
+    font-family: 'Avenir Next', 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 17px;;
+    color: black;
+}
+
+p{
+    font-family: 'Avenir Next', 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 15px;;
+    color: white;
+}
+
+
+
+
+/*attractions.html CSS-------------------------------------*/
+
+header{
+    background:rgba(24, 27, 186, 255);
+    text-align: center;
+    width:60%;
+    height:120px;
+    padding: 10px;
+    font-size:large;
+}
+
+#sitelogo {
+    width: 10%;
+    float: left;
+}
+
+#index {
+    width: 30%;
+    float: left;
+}
+
+#attractions {
+    width: 30%;
+    float: left;
+}
+
+#faq {
+    width: 30%;
+    float: left;
+}
+
+#search {
+    width: 60%;
+}
+
+#attractionsAndAmenities {
+    width: 60%;
+}
+
+#site1 {
+    width: 50%;
+    float: left;
+}
+
+#site2 {
+    width: 50%;
+    float: left;
+}
+
+#site3 {
+    width: 50%;
+    float: left;
+}
+
+#site4 {
+    width: 50%;
+    float: left;
+}
+
+
+#footer { 
+    width: 60%;
+}
+
